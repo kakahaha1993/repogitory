@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 16 00:04:56 JST 2018
+jackson-annotations-2.9.0.jar>central=
+jackson-annotations-2.9.0-javadoc.jar>central=
+jackson-annotations-2.9.0.pom>central=
+jackson-annotations-2.9.0-sources.jar>central=

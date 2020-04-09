@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 00:21:45 JST 2020
+com.liferay.portal.kernel-4.4.0-sources.jar>central=
+com.liferay.portal.kernel-4.4.0.jar>central=
+com.liferay.portal.kernel-4.4.0.pom>central=

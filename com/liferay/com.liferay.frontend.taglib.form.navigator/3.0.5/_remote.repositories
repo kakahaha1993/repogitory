@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 00:21:36 JST 2020
+com.liferay.frontend.taglib.form.navigator-3.0.5.pom>central=
+com.liferay.frontend.taglib.form.navigator-3.0.5-sources.jar>central=
+com.liferay.frontend.taglib.form.navigator-3.0.5.jar>central=

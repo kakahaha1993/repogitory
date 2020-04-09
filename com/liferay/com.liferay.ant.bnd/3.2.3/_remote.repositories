@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 00:21:57 JST 2020
+com.liferay.ant.bnd-3.2.3.jar>central=
+com.liferay.ant.bnd-3.2.3.pom>central=

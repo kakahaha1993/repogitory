@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 00:21:34 JST 2020
+com.liferay.frontend.taglib-4.0.15.jar>central=
+com.liferay.frontend.taglib-4.0.15.pom>central=
+com.liferay.frontend.taglib-4.0.15-sources.jar>central=
